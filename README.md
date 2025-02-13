@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=Osasblaisekhan&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
 
 Here are some ideas to get you started:
 
